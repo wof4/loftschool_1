@@ -128,27 +128,27 @@ p {
 }
 
 .menu__text--icon--main:hover:before {
-    background-image: url('/images/main_hover.png');
+    background-image: url('../images/main_hover.png');
 }
 
 .menu__text--icon--main:before {
-    background-image: url('/images/main.png');
+    background-image: url('../images/main.png');
 }
 
 .menu__text--icon--feed:hover:before {
-    background-image: url('/images/feed_hover.png');
+    background-image: url('../images/feed_hover.png');
 }
 
 .menu__text--icon--feed:before {
-    background-image: url('/images/feed.png');
+    background-image: url('../images/feed.png');
 }
 
 .menu__text--icon--team:hover:before {
-    background-image: url('/images/team_hover.png');
+    background-image: url('../images/team_hover.png');
 }
 
 .menu__text--icon--team:before {
-    background-image: url('/images/team.png');
+    background-image: url('../images/team.png');
 }
 
 .footer {
@@ -216,23 +216,23 @@ p {
 }
 
 .social__link--vk {
-    background: url('/images/vk.png') center center no-repeat;
+    background: url('../images/vk.png') center center no-repeat;
 }
 
 .social__link--fb {
-    background: url('/images/fb.png') center center no-repeat;
+    background: url('../images/fb.png') center center no-repeat;
 }
 
 .social__link--google {
-    background: url('/images/google.png') center center no-repeat;
+    background: url('../images/google.png') center center no-repeat;
 }
 
 .social__link--tw {
-    background: url('/images/twitter.png') center center no-repeat;
+    background: url('../images/twitter.png') center center no-repeat;
 }
 
 .social__link--mail {
-    background: url('/images/mail.png') center center no-repeat;
+    background: url('../images/mail.png') center center no-repeat;
 }
 
 .social__title {
